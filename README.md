@@ -1,9 +1,4 @@
-<a href="https://github.com/6r6?tab=repositories">
-  <img align="center" src="https://github-readme-stats-2-r6r.vercel.app/api?username=6r6&showicons=true" />
-</a>
-<a href="https://github.com/6r6">
-  <img align="center" src="https://github-readme-stats-2-r6r.vercel.app/api/top-langs/?username=6r6&layout=compact" />
-</a>
+[![My GitHub Language Stats](https://github-readme-stats-2-r6r.vercel.app/api/top-langs/?username=6r6&layout=compact)](https://github.com/6r6?tab=repositories)
 
 <!--
 **6r6/6r6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
