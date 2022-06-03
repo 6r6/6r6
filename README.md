@@ -1,6 +1,7 @@
+<!--
+
 [![My GitHub Language Stats](https://github-readme-stats-2-r6r.vercel.app/api/top-langs/?username=6r6&layout=compact)](https://github.com/6r6?tab=repositories)
 
-<!--
 **6r6/6r6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Metrics](/github-metrics.svg)
